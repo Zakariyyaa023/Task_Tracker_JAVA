@@ -32,7 +32,7 @@ A simple command-line To-Do List application written in Java. This project allow
 2. Clone the respotory with the following command:
 
     ```bash
-    git clone https://github.com/Zakariyyaa023/Task_Tracker_JAVA.git
+    git clone https://github.com/Zakariyyaa023/Task_Tracker_JAVA
     cd Task_Tracker
     cd src
     cd main/java/org/App
