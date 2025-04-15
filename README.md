@@ -33,6 +33,10 @@ A simple command-line To-Do List application written in Java. This project allow
 
     ```bash
     git clone https://github.com/Zakariyyaa023/Task_Tracker_JAVA.git
+    cd Task_Tracker
+    cd src
+    cd main/java/org/App
+    
 
 3. Compile the code:
 
